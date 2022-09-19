@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Sistema criado durante o curso de teste da alura e focado 100% em aprender testes unitários e tdd. Completamente prático e com o intuito de treino. Nele é possível inserir participantes para a brincadeira de amigo secreto e em seguida realizar o sorteio. Tendo sido validado, não é possível inserir mais de 1 participante com o mesmo nome e nunca fica alguém sem ser sorteado ou que sorteia a si mesmo.
 
 ## Available Scripts
 
